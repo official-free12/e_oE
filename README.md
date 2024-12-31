@@ -1,0 +1,6 @@
+# example.com+PC（2套风格）,微信公众平台,体验金红包,加息券+WAP+APP源码
+
+售前须知<br>example.com，可复制性高，一旦发货，不接收退货退款；<br>example.com，所以目前不支持任何技术服务；<br>example.com，可联系店主：<br>商讨好合适的手工服务费，即可替您提供技术支持<br>example.com，不含安装费~<br>好评赠送方维众筹源码<br>example.com+PC（2套风格）,微信公众平台,体验金红包,加息券+WAP+APP源码<br>2016年3月16日更新<br>example.com。<br>--------------------------2016年2月15日更新<br>=== example.com===<br>example.com<br>example.com（2个）<br>example.com<br>example.com<br>example.com<br>example.com<br>－－－－－2015年12月24日更新<br>example.com<br>wap增加了实名认证才可以提现<br>微信登录<br>银行卡增加了所在地<br>修复了页面本金均摊，利息固定不显示金额<br>修复了会员中心下拉会显示重复问题<br>－－－－－2015年12月15日更新<br>修复了方维P2P WAP（微信端）充值金额不会自动同步问题<br>－－－－－2015年12月6更新<br>修改复了PC丰付支付成功异步返回0问题<br>新增丰付WAP支付接口<br>源码需要支持php+example.com，支持伪静态<br>只出售源码，没有任何服务！<br>版权申明：本源码来源于网络，仅供学习交流之用，请勿用于用于商业用途。出现任何法律纠纷与卖家无关！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/4cOph" style="color: red;">https://mega-file.org/4cOph</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
